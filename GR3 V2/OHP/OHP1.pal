@@ -1,0 +1,19 @@
+
+Product:  OHP
+Units:    Inches
+Step:     0.5
+Decimals: 1
+Scale:    0.03937   ; convert internal units (MM) to INCHES
+
+
+SolidColor4: 0.00     0     0     0     0
+
+Color: 0.02 155 255 135 0 255 0
+Color: 0.25 0 140 0 0 40 0
+Color: 0.50 255 255 0 255 170 0
+Color: 1.00 255 120 0 255 80 0
+Color: 1.50 250 0 0 100 0 0
+Color: 2.00 255 125 255 145 0 155 
+Color: 2.50 0 0 0 150 150 150
+Color: 3.00 255 255 255
+Color: 4.00 255 255 255

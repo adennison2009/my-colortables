@@ -1,0 +1,19 @@
+units: kg/m2
+step: 5 
+
+Color: 5 29 0 40
+Color: 15 106 0 193
+Color: 20 6 186 238
+Color: 25 15 115 20
+Color: 30 26 226 10
+Color: 35 186 198 12
+Color: 40 248 224 12
+Color: 45 252 34 3
+Color: 50 131 14 14
+Color: 65 250 31 201
+COlor: 80 99 12 95
+Color: 95 255 255 255
+Color: 110 50 50 50
+Color: 115 10 10 10
+Color: 125 5 5 5
+Color: 127 1 1 1

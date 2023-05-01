@@ -1,0 +1,7 @@
+Product: BR
+Units: DBZ 
+Step: 5 
+
+Color: 0 0 0 0
+Color: 25 125 125 125
+Color: 45 255 255 255

@@ -1,0 +1,12 @@
+units: ºC
+step: 5
+product: IR
+
+Color4: 100 100 100 100 0
+Color4: 145 255 255 255 190
+Color: 160 255 198 102
+color: 180 255 150 0
+color: 200 250 0 0
+color: 210 160 0 160
+color: 220 202 0 197
+color: 230 0 174 193

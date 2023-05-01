@@ -1,0 +1,20 @@
+
+Product: CC
+units: %
+Scale:  100
+Step:      5
+
+Color:  130  164   54  150
+Color:  100  255  180  215
+Color:  99.9 152   30   70   
+Color:  99   152   30   70   
+Color:  97   225    3    0
+Color:  95   255  140    0
+Color:  90   255  255    0
+Color:  85   135  215   10
+Color:  80    95  245  100
+Color:  75   120  120  255
+Color:  60    10   10  190
+Color:  45    15   15  140
+color:  20   100  100  100  
+color:  0 84 84 84

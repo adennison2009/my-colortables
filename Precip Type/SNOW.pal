@@ -1,0 +1,19 @@
+product: SN
+units: dBZ
+step: 5
+
+
+solidColor: 5   0 239 255
+solidColor: 10   0 212 255
+solidColor: 15   0 191 255
+solidColor: 20   0 173 255
+solidColor: 25   0 148 255
+solidColor: 30   0 123 255
+solidColor: 35   0 104 255
+solidColor: 40   0 85 255
+solidColor: 45   4 67 245
+solidColor: 50   0 38 255
+solidColor: 55   0 14 255
+solidColor: 60   0 0 255
+solidColor: 65   0 0 223
+solidColor: 70   0 0 203

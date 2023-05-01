@@ -1,0 +1,19 @@
+product: RA
+units: dBZ
+step: 5 
+
+
+solidcolor:  5   123 176 106
+solidcolor: 10   107 159 91
+solidcolor: 15   90 142 75
+solidcolor: 20   74 125 60
+solidcolor: 25   58 109 45
+solidcolor: 30   41 92 29
+solidcolor: 35   25 75 14
+solidcolor: 40   215 215 000
+solidcolor: 45   245 166 15
+solidcolor: 50   225 157 95
+solidcolor: 55   178 77 000
+solidcolor: 60   206 32 25
+solidcolor: 65   176 24 18
+solidcolor: 70   146 16 28

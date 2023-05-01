@@ -1,0 +1,25 @@
+product: NROT
+step: 1 
+decimals: 2
+
+color4: 0 10 10 10 40
+color: .75 68 0 0
+color: 1.00 100 0 0
+color: 1.25 150 0 0
+color: 1.50 204 0 0
+color: 2.00 255 0 0
+color: 2.25 255 79 0
+color: 2.50 255 128 0
+color: 3.00 255 255 255
+color: 3.50 255 255 255
+color: 4.00 255 255 255
+color: -.75 0 0 68
+color: -1.00 0 0 100
+color: -1.25 0 0 150
+color: -1.50 0 0 204
+color: -2.00 0 0 255
+color: -2.25 0 128 255
+color: -2.50 0 255 255
+color: -3.00 255 255 255
+color: -3.50 255 255 255
+color: -4.00 255 255 255

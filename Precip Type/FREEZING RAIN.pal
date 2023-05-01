@@ -1,0 +1,22 @@
+product: ZR
+units: dBZ
+step: 5
+
+
+
+solidColor: 5  255 220 220
+solidColor: 10 255 204 204
+solidColor: 15  255 188 188
+solidColor: 20 255 172 172 
+solidColor: 25 255 156 156
+solidColor: 30 253 140 140
+solidColor: 35 255 124 124
+solidColor: 40 255 108 108
+solidColor: 45 255 96 96
+solidColor: 50 255 80 80
+solidColor: 55 255 64 64
+solidColor: 60 255 48 48
+solidColor: 65 255 32 32
+solidColor: 70 255 16 16
+
+

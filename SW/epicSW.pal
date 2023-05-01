@@ -1,0 +1,25 @@
+;====================================================================
+;
+; Default GRS Spectrum Width color table
+;
+;   Internal units are in meters/second (M/S) so we use the
+;   Scale: statement to let the program know that the values
+;   in this table are in knots (KTS)
+;
+;
+
+Product: SW
+Units:   KTS
+Step:    2
+Scale:   1.9426     ; converts internal units (M/S) to KTS
+
+RF:  117 0 117
+
+color: 0 20 5 72
+color: 2 50 20 140
+color: 4 124 38 190
+color: 7 218 55 120
+color: 15 251 126 33   255 255 0
+color: 20 255 255 255  
+color: 30 192 192 192
+color: 40 0 160 200
