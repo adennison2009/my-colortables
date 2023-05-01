@@ -1,0 +1,23 @@
+Product:br
+units: dBZ
+step: 5
+
+SolidColor: 5 131 255 131
+SolidColor: 10 108 220 108
+solidcolor: 15 84 192 74
+solidcolor: 20 52 153 60
+solidcolor: 25 32 112 35
+solidcolor: 30 17 76  5
+solidcolor: 35 249 255 0
+solidcolor: 40 229 134 7
+solidcolor: 45 254 4 13
+solidcolor: 50 113 2 0
+solidcolor: 55 164 4 156
+solidcolor: 60 233 6 224
+solidcolor: 65 148 014 042
+solidcolor: 70 195 125 205
+solidcolor: 75 192 113 192
+solidcolor: 80 255 122 255
+solidcolor: 85 255 189 255
+solidcolor: 90 255 236 255
+solidcolor: 95 255 236 255

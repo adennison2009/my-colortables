@@ -1,0 +1,12 @@
+product: BR
+units: dBZ
+step: 5
+
+color4: 5 128 255 128 255 0 65 0 255
+color: 35 255 255 0 255 128 0
+color: 50 255 0 0
+color: 60 75 0 0
+color: 65 255 0 255
+color:80 10 0 10
+color: 95 255 255 255
+ 

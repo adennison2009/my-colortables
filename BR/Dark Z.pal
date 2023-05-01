@@ -1,0 +1,16 @@
+product: BR
+units: dBZ
+step: 5
+
+color4: -10 20 20 20 0
+color: 10 27 45 68
+color: 17.5 95 152 173
+color: 22.5 44 173 70
+color: 35 14 60 4
+color: 40 255 240 40
+color: 47.5 247 138 36
+color: 52.5 228 22 16
+color: 55 208 22 15
+color: 65 117 41 129
+color: 72.5 30 153 153
+color: 85 220 220 220

@@ -1,0 +1,16 @@
+product: BR
+units: DBZ
+step: 5
+
+solidcolor: 10   255   0    220   
+solidcolor: 15   199   0    166
+solidcolor: 20   187   0    59
+solidcolor: 25   255   28   45
+solidcolor: 30   255   164  66
+solidcolor: 35   255   255  80 
+solidcolor: 40   0     110  32
+solidcolor: 45   0     158  46 
+solidcolor: 50   0     205  62
+solidcolor: 55   0     228  69 
+solidcolor: 60   0     251  76
+solidcolor: 65   255   255  255

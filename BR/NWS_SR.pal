@@ -1,0 +1,18 @@
+product: BR
+units: dBZ
+step: 5 
+
+
+color4: -10 216 214 180 0
+color:  0 134 149 180
+color: 10 49 80 181 105 212 224
+color: 20 112 238 230  6 105 10
+color: 30 6 105 10 255 244 3
+color: 40 255 244 3 245 140 0
+color: 50 255 0 0  106 0 0
+color: 60 255 168 168 255 239 239
+solidcolor: 65 255 255 255
+solidcolor: 70 255 128 255
+solidcolor: 75 123 0 125
+solidcolor: 80 5 255 155
+color: 95 5 255 155

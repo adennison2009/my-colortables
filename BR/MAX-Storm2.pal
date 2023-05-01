@@ -1,0 +1,25 @@
+;====================================================================
+;
+; WSI MAX SOLID PALETTE via ALMANY DESIGNS
+;
+;
+
+Product: BR
+Units:   DBZ
+Step:    5
+
+SolidColor:  80  255 255 255  
+SolidColor:  70  255 255 255
+SolidColor:  65  255 170 255
+SolidColor:  60  255 85 255
+SolidColor:  55  255 0 255
+SolidColor:  50  128 0 0
+SolidColor:  45  255 0 0
+SolidColor:  40  255 127 0 
+SolidColor:  34  255 255 0  
+SolidColor:  28  0 65 0
+SolidColor:  24  25 103 25
+SolidColor:  20  51 141 51
+SolidColor:  15  76 179 76
+SolidColor:  10  102 217 102
+SolidColor:   5  128 255 128
