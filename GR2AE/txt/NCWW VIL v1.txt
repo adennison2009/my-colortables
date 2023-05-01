@@ -1,0 +1,19 @@
+Product: VIL
+units: kg/m2
+step: 5 
+
+Color4: 5 5 5 5 200
+Color4: 8 18 0 34 240
+Color: 10 41 0 79
+Color: 20 106 0 193
+Color: 30 6 186 238
+Color: 40 15 115 20
+Color: 50 26 226 10
+Color: 60 186 198 12
+Color: 70 248 224 12
+Color: 80 252 34 3
+Color: 90 131 14 14
+Color: 100 250 31 201
+COlor: 110 99 12 95
+Color: 120 255 255 255
+Color: 127 0 0 0

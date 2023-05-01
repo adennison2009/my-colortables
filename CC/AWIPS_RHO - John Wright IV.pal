@@ -1,0 +1,18 @@
+Product: CC
+Units: RHO
+Scale:  1
+Step:   0.1
+Decmials: 2
+
+Color:  1.05  164   54  150
+Color:  1.00  255  180  215
+Color:  0.99   139   30   77  139   30   77
+Color:  0.97   225    3    0
+Color:  0.95   255  140    0
+Color:  0.90   255  255    0
+Color:  0.85   135  215   10
+Color:  0.80    95  245  100
+Color:  0.75   120  120  255
+Color:  0.60    10   10  190
+Color:  0.45    15   15  140
+color:  0.00   15   15  140

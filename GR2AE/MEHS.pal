@@ -1,0 +1,29 @@
+Product:  MEHS
+Units:    INCH
+Step:     0.25
+Decimals: 2
+Scale:    0.03937   ; convert internal units (MM) to INCHES
+
+
+SolidColor:  0.25     100 100 100
+SolidColor:  0.50      185 185 185
+SolidColor:  0.75   255 255 255
+SolidColor:  1.00   125 200 200
+SolidColor: 1.25 50 150 210
+SolidColor: 1.50 0 125 220
+SolidColor: 1.75 0 100 230
+SolidColor:  2.00   0 0 255
+SolidColor: 2.25 0 0 190
+SolidColor: 2.50 0 0 100
+SolidColor: 2.75 0 0 50
+SolidColor:  3.00   255 70 255
+SolidColor: 3.25 190 30 190
+SolidColor: 3.50 140 0 140
+SolidColor: 3.75 70 0 70
+SolidColor: 4.00 200 0 0
+SolidColor: 4.25 150 0 0
+SolidColor: 4.50 100 0 0
+SolidColor: 4.75 50 0 0
+SolidColor:  5.00   240 240 0
+SolidColor: 5.50 240 240 0
+

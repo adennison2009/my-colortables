@@ -1,0 +1,22 @@
+TABLE BY Los Capital Ben#9800
+
+Product:  CC
+Units:    %
+Scale:    100
+Step:     5
+
+SolidColor4: 105    250 250 250 50
+SolidColor: 104     240 200 240
+Color: 103 77 0 77
+Color: 95 128 0 0
+Color: 85 204 153 0
+Color: 75 0 153 0
+Color: 65 51 102 204
+Color: 55 0 0 102
+Color: 45 41 61 61
+Color: 35 38 38 38
+Color: 25 0 0 0
+Color: 15 153 153 153
+Color: 0 255 255 255
+
+RF: 200 50 200

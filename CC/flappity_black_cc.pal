@@ -1,0 +1,23 @@
+; Black/red (and pink) colortable made by Flappity
+; Discord flappity#4258
+; This table started as a joke but I actually liked it so here we are.
+; This needs some tuning, but is decent so far!
+
+Product:  CC
+Units:    %
+Scale:    100
+Step:     5
+
+
+Color: 100    0 0 5
+Color:  95    0 65 80 
+Color:  90    100 40 40
+Color:  85    200 80 80
+Color:  78	  200 0 0	
+Color:  74    100 0 0 
+Color:  65    0 0 0
+Color:  45    100 0 100 
+Color:  20    150 0 150
+Color:  0	  200 0 200	   
+
+RF: 0 0 0

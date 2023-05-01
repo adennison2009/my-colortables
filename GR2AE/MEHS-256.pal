@@ -1,0 +1,15 @@
+Product:  MEHS
+Units:    INCH
+Step:     0.25
+Decimals: 2
+Scale:    0.03937   ; convert internal units (MM) to INCHES
+
+
+Color:  0.25     100 100 100 255 255 255
+Color:  1.00   125 200 200 0 80 255
+Color:  2.00   0 0 255 0 0 50
+Color:  3.00   255 70 255 70 0 70
+Color: 4.00 200 0 0 50 0 0
+Color:  5.00   240 240 0
+Color: 5.50 240 240 0
+
