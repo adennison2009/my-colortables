@@ -1,0 +1,29 @@
+
+; Created using CTC for GRX + WSV3 v2
+; Mods for GRX - www.mods-for-grx.com/color-table-creator.html
+
+
+Product:     BR
+Units:       dBZ
+Offset:      0
+Step:        10
+
+
+Color: 0 34 40 45    
+Color: 5 27 54 74    
+Color: 10 21 68 104    
+Color: 15 16 141 186    
+Color: 20 15 200 252    
+Color: 25 27 161 18    
+Color: 30 144 240 72     
+Color: 35 252 247 2    
+Color: 40 254 157 14    
+Color: 45 238 126 2    
+Color: 50 250 56 23    
+Color: 55 216 24 16    
+Color: 60 182 19 4    
+Color: 65 254 182 243    
+Color: 70 201 86 254    
+Color: 75 154 54 219    
+Color: 80 82 6 164    
+

@@ -1,0 +1,23 @@
+
+; Created using CTC for GRX + WSV3 v2
+; Mods for GRX - www.mods-for-grx.com/color-table-creator.html
+
+Product: BR
+Units: dBZ
+Step: 5
+
+SolidColor: 4.9 0 10 100
+SolidColor: 5 9 255 255
+SolidColor: 9.9 11 165 165 255
+SolidColor: 15 93 195 93
+SolidColor: 20 64 154 64
+SolidColor: 25 39 116 39
+SolidColor: 29.9 13 76 13 255
+SolidColor: 35 250 255 8
+SolidColor: 40 255 129 0
+SolidColor: 45 255 13 0
+SolidColor: 50 127 3 0
+SolidColor: 55 255 0 254
+SolidColor: 60 128 0 255
+SolidColor: 65 255 255 255
+SolidColor: 70 10 205 162

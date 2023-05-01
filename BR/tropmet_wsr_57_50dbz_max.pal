@@ -1,0 +1,17 @@
+product: BR
+Units: DBZ
+Step: 5
+
+; color: startvalue start_rgb end_rgb
+
+Color: 0 0 0 0 3 3 3
+Color: 5 3 3 3 7 7 7
+Color: 10 7 7 7 26 26 26
+Color: 20 26 26 26 102 102 102
+Color: 30 102 102 102 179 179 179
+Color: 40 179 179 179 255 255 255
+Color: 50 255 255 255
+
+
+ND: 0 0 0
+RF: 64 64 64

@@ -1,0 +1,21 @@
+;====================================================================
+;
+; WeatherTap RadarLab HD+ High Resolution Base Reflectivity color table
+;
+;
+
+Product: BR
+Units:   DBZ
+Step:    10
+
+Color:  80  255 255 255  
+Color:  75  225 128 224
+Color:  60  176 032 128
+Color:  55  144 000 000
+Color:  50  240 030 032
+Color:  45  240 114 032
+Color:  40  240 192 016 
+Color:  35  016 064 016  
+Color:  15  128 224 080  
+Color:  10  000 240 240
+Color4:   0  000 000 000 0
