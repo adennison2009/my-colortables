@@ -1,6 +1,7 @@
-product: br
-units: dbz
-step: 5
+Product: BR
+Units: dBZ
+Step: 5
+
 Color4: -10  64  64 64 100 164 164 164 100
 Color: 5    18  73 103   77 163 214
 Color: 20  125 239 125   22  92  42
